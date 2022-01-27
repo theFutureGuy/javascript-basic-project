@@ -1,0 +1,16 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(21, 121, 121);
+}
+
+#canvas{
+    border: 20px solid black;
+}
